@@ -12,6 +12,6 @@ Core Concepts of OOP in PHP
 # Advance PHP Topics
  
  
- >> Method Chaining 
- >> Interfaces 
+ - Method Chaining 
+ - Interfaces 
  

@@ -2,12 +2,12 @@
 
 
 Core Concepts of OOP in PHP
- >> Classes
- >> Objects 
- >> Inheritence 
- >> Abstraction
- >> Polymorphism 
- >> Encapsulation
+ - Classes
+ - Objects 
+ - Inheritence 
+ - Abstraction
+ - Polymorphism 
+ - Encapsulation
  
 # Advance PHP Topics
  
